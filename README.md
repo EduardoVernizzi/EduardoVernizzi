@@ -5,12 +5,6 @@ incluindo HTML e CSS, e também experiência em desenvolvimento Backend com as l
 
 Estou fazendo cursos com ênfase na liguagem C#, .NET. Estudando metodologia SCRUM, GitFlow
 
-### Conecte-se comigo
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20Dio-30A3DC?style=for-the-badge)](https://web.dio.me/users/eduardo_vernizzi?tab=achievements)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:eduardo.vernizzi@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/carlosvernizzi/)
-
 ### Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
@@ -20,3 +14,9 @@ Estou fazendo cursos com ênfase na liguagem C#, .NET. Estudando metodologia SCR
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![C#](https://img.shields.io/badge/Csharp-000?style=for-the-badge&logo=csharp&logoColor=30A3DC)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=dotnet&logoColor=30A3DC)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+
+### Conecte-se comigo
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20Dio-30A3DC?style=for-the-badge)](https://web.dio.me/users/eduardo_vernizzi?tab=achievements)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:eduardo.vernizzi@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/carlosvernizzi/)
