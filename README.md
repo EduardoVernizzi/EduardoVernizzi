@@ -1,6 +1,6 @@
 CARLOS EDUARDO VERNIZZI SILVA
 
-Sou um profissional formado pela ETEC com foco em análise e desenvolvimento de sistemas. Possuo conhecimento básico em desenvolvimento web, HTML e CSS, e também experiência em desenvolvimento backend com as linguagens C# e JavaScript. Atualmente estou cursando T.I, na universidade Univesp. Tenho conhecimento intermediário em inglês, o que me permite compreender documentações e interagir com equipes internacionais.
+Profissional em formação na área de Tecnologia da Informação, com conhecimentos em Git e GitHub, além de habilidades básicas em C#, HTML e CSS. Atualmente, estou cursando T.I e participando de cursos e bootcamps focados em desenvolvimento backend utilizando C# e .NET. Busco oportunidades para aplicar e expandir minhas habilidades em projetos desafiadores.
 
 Estou fazendo cursos com ênfase na liguagem C#, .NET.
 
