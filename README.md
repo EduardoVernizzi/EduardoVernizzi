@@ -2,7 +2,7 @@ CARLOS EDUARDO VERNIZZI SILVA
 
 Profissional em formação na área de Tecnologia da Informação, com conhecimentos em Git e GitHub, além de habilidades básicas em C#, HTML e CSS. Atualmente, estou cursando T.I e participando de cursos e bootcamps focados em desenvolvimento backend utilizando C# e .NET. Busco oportunidades para aplicar e expandir minhas habilidades em projetos desafiadores.
 
-Estou fazendo cursos com ênfase na liguagem C#, .NET.
+
 
 ### Habilidades
 
