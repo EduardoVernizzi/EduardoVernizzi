@@ -1,6 +1,6 @@
 CARLOS EDUARDO VERNIZZI SILVA
 
-Profissional em formação na área de Tecnologia da Informação, com conhecimentos em Git e GitHub, além de habilidades básicas em C#, HTML e CSS. Atualmente, estou cursando T.I e participando de cursos e bootcamps focados em desenvolvimento backend utilizando C# e .NET. Busco oportunidades para aplicar e expandir minhas habilidades em projetos desafiadores.
+Sou um profissional formado pela ETEC com foco em análise e desenvolvimento de sistemas. Possuo conhecimento básico em desenvolvimento web (HTML, CSS e JavaScript) e também experiência em desenvolvimento back-end com a linguagem C#. Tenho conhecimento intermediário em inglês, o que me permite compreender documentações e interagir com equipes internacionais. Estou buscando uma vaga de estágio, desenvolvedor Front-end Jr, desenvolvedor Back-end Jr.
 
 
 
