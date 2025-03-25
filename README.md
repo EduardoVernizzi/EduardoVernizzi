@@ -1,7 +1,7 @@
 CARLOS EDUARDO VERNIZZI SILVA
 
-Sou um profissional formado pela ETEC com foco em análise e desenvolvimento de sistemas. Possuo conhecimento básico em desenvolvimento web (HTML, CSS e JavaScript) e também experiência em desenvolvimento back-end com a linguagem C#. Tenho conhecimento intermediário em inglês, o que me permite compreender documentações e interagir com equipes internacionais. Estou buscando uma vaga de estágio, desenvolvedor Front-end Jr, desenvolvedor Back-end Jr.
-
+Sou formado tecnicamente em Informática pela ETEC de Poá e tenho bacharelado em Engenharia Civil. Atualmente, estou cursando Bacharelado em Tecnologia da Informação e investindo no
+aprimoramento das minhas habilidades em desenvolvimento de software. Estou realizando cursos na área de desenvolvimento FullStack, onde estou adquirindo conhecimentos em HTML, CSS, JavaScript, Bootstrap, manipulação de DOM, React.js, Node.js, Express.js, APIs, MySQL e MongoDB. Tenho um grande interesse em expandir minha expertise e estou sempre em busca de novos desafios para me desenvolver e aplicar minhas habilidades na criação de soluções tecnológicas completas.
 
 
 ### Habilidades
