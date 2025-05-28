@@ -1,8 +1,6 @@
 CARLOS EDUARDO VERNIZZI SILVA
 
-Sou formado tecnicamente em Informática pela ETEC de Poá e tenho bacharelado em Engenharia Civil. Atualmente, estou cursando Bacharelado em Tecnologia da Informação e investindo no
-aprimoramento das minhas habilidades em desenvolvimento de software. Estou realizando cursos na área de desenvolvimento FullStack, onde estou adquirindo conhecimentos em HTML, CSS, JavaScript, Bootstrap, manipulação de DOM, React.js, Node.js, Express.js, APIs, MySQL e MongoDB. Tenho um grande interesse em expandir minha expertise e estou sempre em busca de novos desafios para me desenvolver e aplicar minhas habilidades na criação de soluções tecnológicas completas.
-
+Profissional com 2 anos de experiência em desenvolvimento Full Stack, com domínio de tecnologias como HTML, CSS, JavaScript, Bootstrap, manipulação de DOM, React.js, Node.js, Express.js, APIs, MySQL e MongoDB. Possuo forte capacidade analítica, foco em resolução de problemas e boa comunicação, além de perfil proativo e colaborativo. Iniciei minha trajetória na tecnologia com um curso técnico em Informática pela ETEC de Poá e, mesmo formado em Engenharia Civil, foi no desenvolvimento de software que descobri minha verdadeira vocação. Atualmente, curso Bacharelado em Tecnologia da Informação e sigo me especializando na criação de soluções tecnológicas completas, buscando transformar ideias em produtos reais com impacto e propósito.
 
 ### Habilidades
 
