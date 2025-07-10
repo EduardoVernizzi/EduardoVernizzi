@@ -1,20 +1,64 @@
-CARLOS EDUARDO VERNIZZI SILVA
+<h1 align="center">Carlos Eduardo Vernizzi Silva</h1>
 
-Profissional com 2 anos de experiência em desenvolvimento Full Stack, com domínio de tecnologias como HTML, CSS, JavaScript, Bootstrap, manipulação de DOM, React.js, Node.js, Express.js, APIs, MySQL e MongoDB. Possuo forte capacidade analítica, foco em resolução de problemas e boa comunicação, além de perfil proativo e colaborativo. Iniciei minha trajetória na tecnologia com um curso técnico em Informática pela ETEC de Poá e, mesmo formado em Engenharia Civil, foi no desenvolvimento de software que descobri minha verdadeira vocação. Atualmente, curso Bacharelado em Tecnologia da Informação e sigo me especializando na criação de soluções tecnológicas completas, buscando transformar ideias em produtos reais com impacto e propósito.
+<p align="center">
+  Desenvolvedor Full Stack com foco em transformar ideias em soluções tecnológicas com impacto e propósito.
+</p>
 
-### Habilidades
+---
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![C#](https://img.shields.io/badge/Csharp-000?style=for-the-badge&logo=csharp&logoColor=30A3DC)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-[![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=dotnet&logoColor=30A3DC)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+### 🚀 Sobre mim
 
-### Conecte-se comigo
+Sou um profissional com mais de **2 anos de experiência** em desenvolvimento Full Stack. Domínio em tecnologias como **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL, MongoDB** e mais. Comecei minha jornada pela ETEC de Poá e, apesar de formado em Engenharia Civil, me encontrei na área de tecnologia.
+
+Atualmente curso **Bacharelado em Tecnologia da Informação** e sigo criando soluções que resolvem problemas reais.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoVernizzi&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVernizzi&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 📱 Contato e Redes
+
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20Dio-30A3DC?style=for-the-badge)](https://web.dio.me/users/eduardo_vernizzi?tab=achievements)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:eduardo.vernizzi@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/carlosvernizzi/)
+
+---
+
+### 🌐 Portfólio
+
+🖥️ Acesse meu portfólio:  
+🔗 [https://vernizzidev.vercel.app](https://vernizzidev.vercel.app)
+
+---
