@@ -48,15 +48,13 @@ Atualmente curso **Bacharelado em Tecnologia da Informação** e sigo criando so
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-states-generator.vercel.app/api?username=eduardovernizzi&theme=github_dark" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoVernizzi&show_icons=true&cache_seconds=86400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVernizzi&layout=compact&cache_seconds=86400" />
-
-
-
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardovernizzi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+</p>
 
 ---
 
