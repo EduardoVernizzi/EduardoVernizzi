@@ -50,12 +50,9 @@ Atualmente curso **Bacharelado em Tecnologia da Informação** e sigo criando so
 
 <div align="center">
 
-![Stats](https://github-states-generator.vercel.app/api?username=eduardovernizzi)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emilynvs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emilynvs&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emilynvs&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
-</picture
+<img src="https://github-readme-stats.vercel.app/api?username=EduardoVernizzi&show_icons=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVernizzi&layout=compact&cache_seconds=86400" />
+
 
 
 
